@@ -24,6 +24,6 @@ _A simple webpage that lists a few different ways to say goodbye, friend._
 
 ## License
 
-_You can reach me at britwallace888@Gmail.com for commits, questions, or tell me your favorite launguage to say goodbye._
+_You can reach me at britwallace888@Gmail.com for commits, questions, or tell me your favorite launguage to say hello or goodbye._
 
 Copyright (c) _October 16 2021__Brit Wallace_
